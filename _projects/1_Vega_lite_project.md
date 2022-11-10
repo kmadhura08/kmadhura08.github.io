@@ -12,14 +12,19 @@ custom_js:
 
 
 # Homework#10
-## By- Himank Dave and Madhura Kulkarni
+### By- Himank Dave and Madhura Kulkarni
 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/jsonsq_footage.json" style="width: 100%"></vegachart>
 <vegachart schema-url="{{ site.baseurl }}/assets/json/jsonfloors.json" style="width: 100%"></vegachart>
 
+<div class="left">
 {% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv" text="The Data" %}
+</div>
+
+<div class="right">
 {% include elements/button.html link="https://github.com/kmadhura08/kmadhura08.github.io/blob/main/python_notebooks/Assignment_10.ipynb" text="The Analysis" %}
+</div>
 
 
 
