@@ -35,7 +35,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Madhura Kulkarni
-  image             : https://github.com/kmadhura08/kmadhura08.github.io/blob/main/assets/pngs/Madhura Kulkarni_Profile Picture.jpeg
+  image             : https://github.com/kmadhura08/kmadhura08.github.io/blob/main/assets/pngs/Madhura_Kulkarni_Profile_Picture.png
 #  behance           : your_username
 # dribbble          : your_username
   email             : msk10@illinois.edu
@@ -51,9 +51,9 @@ author:
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 #  twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 #  vimeo             : your_username
-  youtube           : your_channel_name
+# youtube           : your_channel_name
 # keybase           : your_username
 
 
