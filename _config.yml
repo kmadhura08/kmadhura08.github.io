@@ -5,7 +5,7 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : Jill Naiman 
+title               : Madhura kulkarni 
 description         : >-
                       I am definitely not a corgi!
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
@@ -34,13 +34,13 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : A. P. Corgi
-  image             : https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg
+  name              : Madhura Kulkarni
+  image             : https://github.com/kmadhura08/kmadhura08.github.io/blob/main/assets/pngs/Madhura Kulkarni_Profile Picture.jpeg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : msk10@illinois.edu
 #  facebook          : your_username
-  github            : jnaiman # JPN
+  github            : kmadhura08 # JPN
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
