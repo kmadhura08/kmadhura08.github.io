@@ -21,12 +21,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Projects">
-  <meta property="og:description" content="I am definitely not a corgi!">
+  <meta property="og:title" content="Final_Project">
+  <meta property="og:description" content="This is an introductory assignment to altair, vegalite and python!">
   <meta property="og:image" content="https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg">
 
-  <title>Projects</title>
-  <meta name="description" content="I am definitely not a corgi!">
+  <title>Final_Project</title>
+  <meta name="description" content="This is an introductory assignment to altair, vegalite and python!">
 
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 
@@ -72,39 +72,36 @@
   </div>
 
 </nav>
-    <div class="card-columns m-3 mt-5">
+    <div class="col-lg-10 mx-auto mt-5 markdown-body">
+  <h1 id="title">Title</h1>
+<p>Team Members- Himank Dave and Madhura Kulkarni</p>
 
-  <!-- Local Projects -->
-  <div class="wow animated fadeIn" data-wow-delay=".15s">
-  <a href="/projects/1-vega-lite-project" class="project card text-themed"><div class="card-body">
-      <h5 id="homework-10-name" class="card-title">Homework#10
-      </h5>
-      <p id="homework-10-desc" class="card-text">This is an introductory assignment to altair, vegalite and python!</p>
-      <p id="homework-10-tools" class="card-text"><span class="badge badge-pill text-primary border border-primary ml-1">Python</span><span class="badge badge-pill text-primary border border-primary ml-1">Altair</span><span class="badge badge-pill text-primary border border-primary ml-1">vega-lite</span><span class="badge badge-pill text-primary border border-primary ml-1">Jekyll</span></p>
-    </div>
-  </a>
+<h3 id="rides-per-bike-type-vs-year">Rides per bike-type VS Year</h3>
+
+<vegachart schema-url="/assets/json/jsonride_year.json" style="width: 100%"></vegachart>
+
+<p>Cook County has the highest amount of square feet, followed by Champaign and Sangamon, according to this interactive plot of square footage by counties in the state of Illinois. We are collecting data from the specified link. The visualization is 250 wide by 1000 high, and it shows the number of counties and their square footage on the x and y axes, respectively. The color scheme used is green since it is visually appealing and represents the amount of land each county has been used for. We applied data transformation by eliminating null values and adding up the square footage. Quantitative and nominal encoding types were used for this plot. Similar to what Himank did in his Assignment 9 quite a bit. Major changes include adding the command interactive and converting tooltip contents to plot. These changes provide us all the information we need to quickly and thoroughly analyze each bar in a bar chart.</p>
+
+<h3 id="contextual-visualizations">Contextual Visualizations</h3>
+<vegachart schema-url="/assets/json/jsonfloors.json" style="width: 100%"></vegachart>
+
+<p>This interactive graphic shows the number of floors for each usage category in the state of Illinois. Based on a quick glance, it is clear that storage has a high percentage of occupied floors.
+Data is being gathered from the designated link. The Number of Floors per Usage Category is displayed on the x and y axes of the 800 wide by 350 high visualization, respectively. Nominal and quantitative encoding types were used for this plot as well as it serves the best when building a bar chart. The color scheme chosen is blue since it looks well and reflects how much land has been exploited by each category. By removing null values and adding the floors, we transformed the data. Quite a bit like what Himank accomplished in his Assignment 9. The command interactive has been added, and the contents of tooltips have been converted to plot. All the information we require to swiftly and in-depthly study each bar in a bar chart is provided by these changes.</p>
+
+<div class="left">
+<a class="m-1 btn btn-outline-primary btn-2 " href="https://media.githubusercontent.com/media/kmadhura08/kmadhura08.github.io/main/python_notebooks/small_data.csv">
+  The Data
+</a>
 </div>
 
-  <div class="wow animated fadeIn" data-wow-delay=".15s">
-  <a href="/projects/final-project" class="project card text-themed"><div class="card-body">
-      <h5 id="final-project-name" class="card-title">Final_Project
-      </h5>
-      <p id="final-project-desc" class="card-text">This is an introductory assignment to altair, vegalite and python!</p>
-      <p id="final-project-tools" class="card-text"><span class="badge badge-pill text-primary border border-primary ml-1">Python</span><span class="badge badge-pill text-primary border border-primary ml-1">Altair</span><span class="badge badge-pill text-primary border border-primary ml-1">vega-lite</span><span class="badge badge-pill text-primary border border-primary ml-1">Jekyll</span></p>
-    </div>
-  </a>
-</div>
-
-  
-
-
-
-
-  <!-- Remote Projects -->
-  
+<div class="right">
+<a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/kmadhura08/kmadhura08.github.io/blob/main/python_notebooks/Final_Project_Part_3.ipynb">
+  The Analysis
+</a>
 </div>
 
 
+</div>
   </main>
   <footer class="mt-auto py-3 text-center">
 
@@ -131,6 +128,17 @@
 
 </footer>
 
+
+<!-- Custom page specific js files -->
+  
+    <script src='/assets/js/vega.min.js' type="text/javascript"></script>
+  
+    <script src='/assets/js/vega-lite.min.js' type="text/javascript"></script>
+  
+    <script src='/assets/js/vega-embed.min.js' type="text/javascript"></script>
+  
+    <script src='/assets/js/justcharts.js' type="text/javascript"></script>
+  
 
 
 
