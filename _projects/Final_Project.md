@@ -22,7 +22,7 @@ Cook County has the highest amount of square feet, followed by Champaign and San
 
 
 ### Contextual Visualizations
-<vegachart schema-url="{{ site.baseurl }}/assets/json/jsonfloors.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/pngs/nested_Pie.png" style="width: 100%"></vegachart>
 
 This interactive graphic shows the number of floors for each usage category in the state of Illinois. Based on a quick glance, it is clear that storage has a high percentage of occupied floors.
 Data is being gathered from the designated link. The Number of Floors per Usage Category is displayed on the x and y axes of the 800 wide by 350 high visualization, respectively. Nominal and quantitative encoding types were used for this plot as well as it serves the best when building a bar chart. The color scheme chosen is blue since it looks well and reflects how much land has been exploited by each category. By removing null values and adding the floors, we transformed the data. Quite a bit like what Himank accomplished in his Assignment 9. The command interactive has been added, and the contents of tooltips have been converted to plot. All the information we require to swiftly and in-depthly study each bar in a bar chart is provided by these changes.
