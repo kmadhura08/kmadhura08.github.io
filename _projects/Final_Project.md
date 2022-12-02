@@ -26,13 +26,16 @@ We were interested to find out the most-used bike-type. In the above visualizati
 
 
 Moving forward, we wanted to know the subscription pattern of the riders. From the above nested pie chart, we can conclude that number of casual riders and member riders are fairly the same in 2021 as well as 2022. One important thing to note down here is that our data has records till October 2022 and clearly the use of the Bikeshare service has increased than the past year.
-
+a
 
 ### Contextual Visualizations
 <vegachart schema-url="{{ site.baseurl }}/assets/json/nested.json" style="width: 100%"></vegachart>
 
-This interactive graphic shows the number of floors for each usage category in the state of Illinois. Based on a quick glance, it is clear that storage has a high percentage of occupied floors.
-Data is being gathered from the designated link. The Number of Floors per Usage Category is displayed on the x and y axes of the 800 wide by 350 high visualization, respectively. Nominal and quantitative encoding types were used for this plot as well as it serves the best when building a bar chart. The color scheme chosen is blue since it looks well and reflects how much land has been exploited by each category. By removing null values and adding the floors, we transformed the data. Quite a bit like what Himank accomplished in his Assignment 9. The command interactive has been added, and the contents of tooltips have been converted to plot. All the information we require to swiftly and in-depthly study each bar in a bar chart is provided by these changes.
+For contextual visualizations, we decided to go with one of the popular bike-sharing services in United States which is the <a href="https://ride.citibikenyc.com/system-data">Citi-bike</a>
+for NYC. For our analysis, due to memory constraints, we used the data for the year 2021 only. The below two visualizations were built in Tableau.
+
+From the above visualizations, we can infer that number of riders riding the docked-bike is significantly high and most of the riders using the citi-bike service are subscribed to their service. The main conclusion to conclude from all the above visualizations is that Baywheels team definitely need to consider their low docked-bike riders and how they can increase their subscribers for overall popularity and profit.
+
 
 <div class="left">
 {% include elements/button.html link="https://media.githubusercontent.com/media/kmadhura08/kmadhura08.github.io/main/python_notebooks/small_data.csv" text="The Data" %}
