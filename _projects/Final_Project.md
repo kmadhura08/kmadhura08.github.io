@@ -36,7 +36,7 @@ for NYC. For our analysis, due to memory constraints, we used the data for the y
 <br>
 </div>
 <div class="right">
-<img src="{{ site.baseurl }}/assets/pngs/pie_chart.png" width="500" height="600"><br>
+<img src="{{ site.baseurl }}/assets/pngs/pie_chart.png" width="500" height="600"><br><br><br>
 </div>
 
 From the above visualizations, we can infer that number of riders riding the docked-bike is significantly high and most of the riders using the citi-bike service are subscribed to their service. The main conclusion to conclude from all the above visualizations is that Baywheels team definitely need to consider their low docked-bike riders and how they can increase their subscribers for overall popularity and profit.
