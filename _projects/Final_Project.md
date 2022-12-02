@@ -14,16 +14,19 @@ custom_js:
 <b>Team Members</b> - Himank Dave (hjdvae2) and Madhura Kulkarni (msk10)
 
 Bay Wheels is a regional public bicycle sharing system in the San Francisco Bay Area of California. Lyft Bikes and Scooters, LLC ("Bikeshare") operates the Bay Wheels bicycle sharing service. 
-The original dataset consists of data from 2017 to October 2022. But, we decided to go with 2021 data and the 2022 data. The data that we decided to got with was very large in intself and hence, we downsampled the data to 50,000 observations to make the visualizations. The data consists information of riders using the Bikeshare services. Data includes rider's information regarding the type of the book and deatils about the source and destination of the station. The EDA and the code to get the final data can be found <a href="https://github.com/kmadhura08/kmadhura08.github.io/blob/main/python_notebooks/Final-Project-Data-Pre-processing.ipynb">here</a>
+The <a href="https://www.lyft.com/bikes/bay-wheels/system-data">original data</a>
+consists of data from 2017 to October 2022. But, we decided to go with 2021 and 2022 data. This was very large in in itself and hence, we downsampled the data to 50,000 observations to make the visualizations. Data includes rider's information regarding the type of the bike and details about the source and destination of the station. The EDA and the code to get the final data can be found
+<a href="https://github.com/kmadhura08/kmadhura08.github.io/blob/main/python_notebooks/Final-Project-Data-Pre-processing.ipynb">here</a>
 
 ### Rides per bike-type VS Year
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/jsonride_year.json" style="width: 100%"></vegachart>
 
-We were interested to find out the most-used bike-type. In the above visualization, we can see the ditribution of the number of rides over different bike-types in the year 2021 and 2022. Surprisngly, the number of rides taken for the docked bike is extremely less as compare to the the other two-bike types.
+We were interested to find out the most-used bike-type. In the above visualization, we can see the distribution of number of rides over different bike-types in the year 2021 and 2022. Surprisingly, the number of rides taken for the docked bike is extremely less as compared to the other two-bike types.
 
 
-Moving forward, we wanted to know the subscription pattern of the riders. From the above nested pie chart, we can conclude that the number of casual riders and member riders are fairly the same in 2021 as well as 2022. One important thing to note down here is that our data has records till October 2022 and clearly the use of the Bikeshare service has increased than the past year. 
+Moving forward, we wanted to know the subscription pattern of the riders. From the above nested pie chart, we can conclude that number of casual riders and member riders are fairly the same in 2021 as well as 2022. One important thing to note down here is that our data has records till October 2022 and clearly the use of the Bikeshare service has increased than the past year.
+
 
 ### Contextual Visualizations
 <vegachart schema-url="{{ site.baseurl }}/assets/json/nested.json" style="width: 100%"></vegachart>
