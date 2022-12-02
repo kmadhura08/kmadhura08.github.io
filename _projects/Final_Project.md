@@ -10,9 +10,11 @@ custom_js:
 ---
 
 
-# Title
+# How successful is LYFT at BayWheels
 Team Members- Himank Dave and Madhura Kulkarni
 
+Bay Wheels is a regional public bicycle sharing system in the San Francisco Bay Area of California. Lyft Bikes and Scooters, LLC ("Bikeshare") operates the Bay Wheels bicycle sharing service. 
+The original dataset consists of data from 2017 to October 2022. But, we decided to go with 2021 data and the 2022 data. The data that we decided to got with was very large in intself and hence, we downsampled the data to 50,000 observations to make the visualizations. The EDA and the code to get the final data can be found <a href="https://github.com/kmadhura08/kmadhura08.github.io/blob/main/python_notebooks/Final_Project_Part_3.ipynb">here</a>
 
 ### Rides per bike-type VS Year
 
