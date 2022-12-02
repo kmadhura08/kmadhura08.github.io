@@ -31,6 +31,7 @@ Moving forward, we wanted to know the subscription pattern of the riders. From t
 For contextual visualizations, we decided to go with one of the popular bike-sharing services in United States which is the <a href="https://ride.citibikenyc.com/system-data">Citi-bike</a>
 for NYC. For our analysis, due to memory constraints, we used the data for the year 2021 only. The below two visualizations were built in Tableau.
 ![Rides distribution per year]({{ site.baseurl }}/assets/pngs/bar_chart.png)
+<img src="{{ site.baseurl }}/assets/pngs/bar_chart.png", style= "width=200px; height=200px"/>
 ![Rides distribution per year]({{ site.baseurl }}/assets/pngs/pie_chart.png)
 
 From the above visualizations, we can infer that number of riders riding the docked-bike is significantly high and most of the riders using the citi-bike service are subscribed to their service. The main conclusion to conclude from all the above visualizations is that Baywheels team definitely need to consider their low docked-bike riders and how they can increase their subscribers for overall popularity and profit.
