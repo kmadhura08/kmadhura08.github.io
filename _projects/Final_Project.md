@@ -36,7 +36,7 @@ for NYC. For our analysis, due to memory constraints, we used the data for the y
 <br>
 </div>
 <div class="right">
-<img src="{{ site.baseurl }}/assets/pngs/pie_chart.png" width="500" height="600">
+<img src="{{ site.baseurl }}/assets/pngs/pie_chart.png" width="500" height="600"><br>
 </div>
 <br>
 <br>
