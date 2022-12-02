@@ -31,12 +31,12 @@ Moving forward, we wanted to know the subscription pattern of the riders. From t
 For contextual visualizations, we decided to go with one of the popular bike-sharing services in United States which is the <a href="https://ride.citibikenyc.com/system-data">Citi-bike</a>
 for NYC. For our analysis, due to memory constraints, we used the data for the year 2021 only. The below two visualizations were built in Tableau.
 <div class="left">
-    <img src="{{ site.baseurl }}/assets/pngs/bar_chart.png" width="500" height="600">
+    <img src="{{ site.baseurl }}/assets/pngs/bar_chart.png" width="500" height="600"><br>
+<br>
+<br>
 </div>
 <div class="right">
-<img src="{{ site.baseurl }}/assets/pngs/pie_chart.png" width="500" height="600"><br>
-<br>
-<br>
+<img src="{{ site.baseurl }}/assets/pngs/pie_chart.png" width="500" height="600">
 </div>
 <br>
 <br>
