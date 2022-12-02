@@ -1,0 +1,155 @@
+[
+    {
+        "version": "1.0",
+        "image": {
+            "name": "\/var\/www\/html\/new-toc\/public\/uploads\/nested_Pie_1669998050140.png",
+            "baseName": "nested_Pie_1669998050140.png",
+            "format": "PNG",
+            "formatDescription": "PNG",
+            "mimeType": "image\/png",
+            "class": "DirectClass",
+            "geometry": {
+                "width": 783,
+                "height": 729,
+                "x": 0,
+                "y": 0
+            },
+            "resolution": {
+                "x": 56.69,
+                "y": 56.69
+            },
+            "printSize": {
+                "x": 13.812,
+                "y": 12.8594
+            },
+            "units": "PixelsPerCentimeter",
+            "type": "TrueColorAlpha",
+            "baseType": "Undefined",
+            "endianness": "Undefined",
+            "colorspace": "sRGB",
+            "depth": 8,
+            "baseDepth": 8,
+            "channelDepth": {
+                "alpha": 1,
+                "red": 8,
+                "green": 8,
+                "blue": 1
+            },
+            "pixels": 2283228,
+            "imageStatistics": {
+                "Overall": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 219.732,
+                    "median": 255,
+                    "standardDeviation": 55.0904,
+                    "kurtosis": 2.06497,
+                    "skewness": -1.83928,
+                    "entropy": 0.209641
+                }
+            },
+            "channelStatistics": {
+                "alpha": {
+                    "min": 255,
+                    "max": 255,
+                    "mean": 255,
+                    "median": 255,
+                    "standardDeviation": 0,
+                    "kurtosis": 8.189e+51,
+                    "skewness": 9.375e+35,
+                    "entropy": 0
+                },
+                "red": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 218.381,
+                    "median": 255,
+                    "standardDeviation": 69.5109,
+                    "kurtosis": 1.37721,
+                    "skewness": -1.74936,
+                    "entropy": 0.272013
+                },
+                "green": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 205.771,
+                    "median": 255,
+                    "standardDeviation": 65.0285,
+                    "kurtosis": -0.950168,
+                    "skewness": -0.814195,
+                    "entropy": 0.278329
+                },
+                "blue": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 199.775,
+                    "median": 255,
+                    "standardDeviation": 85.8223,
+                    "kurtosis": 0.232622,
+                    "skewness": -1.3513,
+                    "entropy": 0.288222
+                }
+            },
+            "renderingIntent": "Perceptual",
+            "gamma": 0.45455,
+            "chromaticity": {
+                "redPrimary": {
+                    "x": 0.64,
+                    "y": 0.33
+                },
+                "greenPrimary": {
+                    "x": 0.3,
+                    "y": 0.6
+                },
+                "bluePrimary": {
+                    "x": 0.15,
+                    "y": 0.06
+                },
+                "whitePrimary": {
+                    "x": 0.3127,
+                    "y": 0.329
+                }
+            },
+            "matteColor": "#BDBDBD",
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#DFDFDF",
+            "transparentColor": "#00000000",
+            "interlace": "None",
+            "intensity": "Undefined",
+            "compose": "Over",
+            "pageGeometry": {
+                "width": 783,
+                "height": 729,
+                "x": 0,
+                "y": 0
+            },
+            "dispose": "Undefined",
+            "iterations": 0,
+            "compression": "Zip",
+            "orientation": "Undefined",
+            "properties": {
+                "date:create": "2022-12-02T16:20:49+00:00",
+                "date:modify": "2022-12-02T16:20:49+00:00",
+                "date:timestamp": "2022-12-02T16:20:54+00:00",
+                "png:cHRM": "chunk was found (see Chromaticity, above)",
+                "png:gAMA": "gamma=0.45455 (See Gamma, above)",
+                "png:IHDR.bit-depth-orig": "8",
+                "png:IHDR.bit_depth": "8",
+                "png:IHDR.color-type-orig": "6",
+                "png:IHDR.color_type": "6 (RGBA)",
+                "png:IHDR.interlace_method": "0 (Not interlaced)",
+                "png:IHDR.width,height": "783, 729",
+                "png:pHYs": "x_res=5669, y_res=5669, units=1",
+                "png:sRGB": "intent=0 (Perceptual Intent)",
+                "signature": "c4b4e557d49e2af6e91a82cf5b29409f1cb90771750393291236a694c8f98f64"
+            },
+            "tainted": false,
+            "filesize": "73910B",
+            "numberPixels": "570807",
+            "pixelsPerSecond": "24.5386MB",
+            "userTime": "0.030u",
+            "elapsedTime": "0:01.023",
+            "version": "ImageMagick 7.1.0-51 Q16-HDRI x86_64 1cf41df5d:20221013 https:\/\/imagemagick.org"
+        }
+    }
+]
