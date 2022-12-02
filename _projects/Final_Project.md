@@ -1,7 +1,7 @@
 ---
 name: Final_Project
 tools: [Python, Altair, vega-lite, Jekyll]
-description: This is an introductory assignment to altair, vegalite and python!
+description: This is the final project for the course IS 445-Data Visualization
 custom_js:
   - vega.min
   - vega-lite.min
@@ -32,15 +32,11 @@ For contextual visualizations, we decided to go with one of the popular bike-sha
 for NYC. For our analysis, due to memory constraints, we used the data for the year 2021 only. The below two visualizations were built in Tableau.
 <div class="left">
     <img src="{{ site.baseurl }}/assets/pngs/bar_chart.png" width="500" height="600">
- </div>
-  <div class="right">
-    <img src="{{ site.baseurl }}/assets/pngs/pie_chart.png" width="500" height="600">
-  </div>
-
-<div>
-  <img src="{{ site.baseurl }}/assets/pngs/bar_chart.png" width="500" height="600" style="float: left;" />
-  <img src="{{ site.baseurl }}/assets/pngs/pie_chart.png" style="float: right;" width="500" height="600"/>
 </div>
+<div class="right">
+<img src="{{ site.baseurl }}/assets/pngs/pie_chart.png" width="500" height="600">
+</div>
+
 From the above visualizations, we can infer that number of riders riding the docked-bike is significantly high and most of the riders using the citi-bike service are subscribed to their service. The main conclusion to conclude from all the above visualizations is that Baywheels team definitely need to consider their low docked-bike riders and how they can increase their subscribers for overall popularity and profit.
 
 
